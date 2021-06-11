@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
    printf("hello.word!")
-	return 1;
 }
 
